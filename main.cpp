@@ -1,3 +1,3 @@
 int main() { return 0; }
 
-void f2() {}
+float f2() { return 0.7; }
