@@ -1,3 +1,3 @@
 int main() { return 0; }
 
-void f2() {}
+int f2() { return 10; }
